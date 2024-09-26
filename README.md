@@ -10,8 +10,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://sites.google.com/view/soumyadipta-das" target="blank"><img align="center" src="Google_Sites_2020_Logo.svg" alt="samrit2442" height="30" width="40" /></a>
+<a href="https://sites.google.com/view/soumyadipta-das" target="blank"><img align="center" src="Google_Sites_2020_Logo.svg" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumyadipta-das/" target="blank"><img align="center" src="LinkedIn_icon.svg" height="30" width="40" /></a>
+<a href="https://orcid.org/0000-0002-2414-8494" target="blank"><img align="center" src="ORCID_iD.svg" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/soumyadiptadas" target="blank"><img align="center" src="Kaggle_Logo.svg" height="30" width="40" /></a>
+<a href="https://huggingface.co/soumyadiptadas" target="blank"><img align="center" src="hf-logo.svg" height="30" width="40" /></a>
+<a href="https://connect.posit.cloud/Soumyadipta2020" target="blank"><img align="center" src="posit-icon-fullcolor.svg" height="30" width="40" /></a>
 </p>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipta2020)
 
