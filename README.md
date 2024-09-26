@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soumyadipta Das 🌏 </h1>
-<h3 align="center">A passionate Data Scientist and Statistician </h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumyadipta2020&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyadipta2020" /> </p>
+
+
+As a dedicated data science professional with 4+ years of hands-on experience, I thrive at the intersection of data, technology, and business. My strong skill set encompasses a range of critical areas, including statistics, data science, programming, and the development of interactive applications using RShiny. I am also proficient in applying artificial intelligence techniques to derive meaningful insights and drive strategic decision-making.
+
+Throughout my career, I have leveraged my expertise to solve complex problems, optimize processes, and uncover actionable insights from data. I excel in creating robust data models, developing predictive analytics, and visualizing data to communicate findings effectively.
 
 - 📫 How to reach me **soumyadipta_das@consultant.com**
 - 👀 I like Data Science, 📊Statistics, 🤖AI and ML.
