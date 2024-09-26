@@ -18,6 +18,18 @@
 <a href="https://connect.posit.cloud/Soumyadipta2020" target="blank"><img align="center" src="posit-icon-fullcolor.svg" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://cran.r-project.org" target="blank"><img align="center" src="Rlogo.svg" width="40" height="40" /></a>
+<a href="https://posit.co" target="blank"><img align="center" src="RStudio.svg" width="40" height="40" /></a>
+<a href="https://shiny.posit.co/" target="blank"><img align="center" src="Shiny_hex_logo.svg" width="40" height="40" /></a>
+<a href="https://www.python.org" target="blank"><img align="center" src="Python.svg" width="40" height="40" /></a>
+<a href="https://code.visualstudio.com/" target="blank"><img align="center" src="Visual Studio Code (VS Code).svg" width="40" height="40" /></a>
+<a href="https://www.docker.com/" target="blank"><img align="center" src="Docker.svg" width="40" height="40" /></a>
+<a href="https://dplyr.tidyverse.org/" target="blank"><img align="center" src="dplyr.svg" width="40" height="40" /></a>
+<a href="https://streamlit.io/" target="blank"><img align="center" src="Streamlit.svg" width="40" height="40" /></a>
+</p>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipta2020)
 
