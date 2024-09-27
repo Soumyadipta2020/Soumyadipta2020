@@ -25,13 +25,20 @@ Throughout my career, I have leveraged my expertise to solve complex problems, o
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://cran.r-project.org" target="blank"><img align="center" src="Rlogo.svg" width="40" height="40" /></a>
+<a href="https://azure.microsoft.com/en-us/" target="blank"><img align="center" src="Azure.svg" width="40" height="40" /></a>
+<a href="https://azure.microsoft.com/en-us/products/devops/" target="blank"><img align="center" src="Azure Devops.svg" width="40" height="40" /></a>
 <a href="https://posit.co" target="blank"><img align="center" src="RStudio.svg" width="40" height="40" /></a>
-<a href="https://shiny.posit.co/" target="blank"><img align="center" src="Shiny_hex_logo.svg" width="40" height="40" /></a>
 <a href="https://www.python.org" target="blank"><img align="center" src="Python.svg" width="40" height="40" /></a>
+<a href="https://spark.apache.org/" target="blank"><img align="center" src="Apache Spark.svg" width="40" height="40" /></a>
+<a href="https://www.databricks.com/" target="blank"><img align="center" src="databricks.svg" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="Visual Studio Code (VS Code).svg" width="40" height="40" /></a>
 <a href="https://www.docker.com/" target="blank"><img align="center" src="Docker.svg" width="40" height="40" /></a>
+<a href="https://shiny.posit.co/" target="blank"><img align="center" src="Shiny_hex_logo.svg" width="40" height="40" /></a>
 <a href="https://dplyr.tidyverse.org/" target="blank"><img align="center" src="dplyr.svg" width="40" height="40" /></a>
+<a href="https://plotly.com/" target="blank"><img align="center" src="Ploty.svg" width="40" height="40" /></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="Streamlit.svg" width="40" height="40" /></a>
+<a href="https://www.stata.com/" target="blank"><img align="center" src="Stata.svg" width="40" height="40" /></a>
+<a href="https://hadoop.apache.org/" target="blank"><img align="center" src="Apache Hadoop.svg" width="40" height="40" /></a>
 </p>
 
 
