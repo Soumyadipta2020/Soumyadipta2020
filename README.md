@@ -45,7 +45,8 @@ Throughout my career, I have leveraged my expertise to solve complex problems, o
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipta2020)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumyadipta2020&show_icons=true&locale=en&layout=compact" alt="Soumyadipta2020" /></p>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumyadipta2020)
+<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumyadipta2020&show_icons=true&locale=en" alt="soumyadipta2020" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipta2020&" alt="Soumyadipta2020" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soumyadipta2020" alt="Soumyadipta2020" /></a> </p>
