@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soumyadipta Das 🌏 </h1>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumyadipta2020&label=Profile%20views&color=0e75b6&style=flat" alt="Soumyadipta2020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumyadipta2020&label=Profile%20views&color=0e75b6&style=flat&icon=0" alt="Soumyadipta2020" /> </p>
 
 
-As a dedicated data science professional with 4+ years of hands-on experience, I thrive at the intersection of data, technology, and business. My strong skill set encompasses a range of critical areas, including statistics, data science, programming, and the development of interactive applications using RShiny. I am also proficient in applying artificial intelligence techniques to derive meaningful insights and drive strategic decision-making.
+As a dedicated data science professional with 4+ years of professional experience, I thrive at the intersection of data, technology, and business. My strong skill set encompasses a range of critical areas, including statistics, data science, programming, and the development of interactive applications using RShiny. I am also proficient in applying artificial intelligence techniques to derive meaningful insights and drive strategic decision-making.
 
 Throughout my career, I have leveraged my expertise to solve complex problems, optimize processes, and uncover actionable insights from data. I excel in creating robust data models, developing predictive analytics, and visualizing data to communicate findings effectively.
 
@@ -12,7 +12,7 @@ Throughout my career, I have leveraged my expertise to solve complex problems, o
 - 🌱 I'm learning about AI and Deep Learning.
 - 🤝 I'm looking to collaborate on Data Science projects.
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://sites.google.com/view/soumyadipta-das" target="blank"><img align="center" src="Google_Sites_2020_Logo.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/soumyadipta-das/" target="blank"><img align="center" src="LinkedIn_icon.svg" height="30" width="40" /></a>
@@ -22,7 +22,7 @@ Throughout my career, I have leveraged my expertise to solve complex problems, o
 <a href="https://connect.posit.cloud/Soumyadipta2020" target="blank"><img align="center" src="posit-icon-fullcolor.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">💻 Tech Stack:</h2>
 <p align="left"> 
 <a href="https://cran.r-project.org" target="blank"><img align="center" src="Rlogo.svg" width="40" height="40" /></a>
 <a href="https://azure.microsoft.com/en-us/" target="blank"><img align="center" src="Azure.svg" width="40" height="40" /></a>
@@ -39,14 +39,27 @@ Throughout my career, I have leveraged my expertise to solve complex problems, o
 <a href="https://streamlit.io/" target="blank"><img align="center" src="Streamlit.svg" width="40" height="40" /></a>
 <a href="https://www.stata.com/" target="blank"><img align="center" src="Stata.svg" width="40" height="40" /></a>
 <a href="https://hadoop.apache.org/" target="blank"><img align="center" src="Apache Hadoop.svg" width="40" height="40" /></a>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadipta2020&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Soumyadipta2020&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soumyadipta2020&theme=github_dark)
 </p>
 
+## 📊 GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipta2020&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soumyadipta2020)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipta2020&theme=github_dark&hide_border=false" alt="Soumyadipta2020" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soumyadipta2020&show_icons=true&locale=en&layout=compact" alt="Soumyadipta2020" /></p>
-<p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumyadipta2020&show_icons=true&locale=en" alt="soumyadipta2020" /></p>
+<p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soumyadipta2020&theme=github_dark" alt="soumyadipta2020" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Soumyadipta2020&theme=github_dark&utcOffset=8" alt="soumyadipta2020" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soumyadipta2020&" alt="Soumyadipta2020" /></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Soumyadipta2020&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soumyadipta2020" alt="Soumyadipta2020" /></a> </p>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Soumyadipta2020&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=false)
