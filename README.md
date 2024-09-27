@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumyadipta Das 🌏 </h1>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumyadipta2020&label=Profile%20views&color=0e75b6&style=flat&icon=0" alt="Soumyadipta2020" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumyadipta2020&label=Profile+Views&color=2c79f5&style=for-the-badge&icon=0&abbreviated=true" alt="Soumyadipta2020" /> </p>
 
 
 As a dedicated data science professional with 4+ years of professional experience, I thrive at the intersection of data, technology, and business. My strong skill set encompasses a range of critical areas, including statistics, data science, programming, and the development of interactive applications using RShiny. I am also proficient in applying artificial intelligence techniques to derive meaningful insights and drive strategic decision-making.
