@@ -8,7 +8,7 @@ As a dedicated data science professional with 4+ years of professional experienc
 Throughout my career, I have leveraged my expertise to solve complex problems, optimize processes, and uncover actionable insights from data. I excel in creating robust data models, developing predictive analytics, and visualizing data to communicate findings effectively.
 
 - 📫 How to reach me **soumyadipta_das@consultant.com**
-- 👀 I like Data Science, 📊Statistics, 🤖AI and ML.
+- 👀 I like Data Science, 📊Statistics, 🤖AI and ⚙️ML.
 - 🌱 I'm learning about AI and Deep Learning.
 - 🤝 I'm looking to collaborate on Data Science projects.
 
