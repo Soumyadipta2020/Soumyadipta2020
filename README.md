@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Soumyadipta Das 🌏 </h1>
+<h1 align="center">Hi 👋, I'm Soumyadipta Das 🌏 <a href="https://sites.google.com/view/soumyadipta-das"><img src="IMG_9171.JPG" align="right" height="128" /></a>  </h1>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumyadipta2020&label=Profile+Views&color=2c79f5&style=for-the-badge&icon=0&abbreviated=true" alt="Soumyadipta2020" /> </p>
 
