@@ -3,9 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Soumyadipta2020&label=Profile+Views&color=2c79f5&style=for-the-badge&icon=0" alt="Soumyadipta2020" /> </p>
 
 
-As a dedicated data science professional with 4+ years of professional experience, I thrive at the intersection of data, technology, and business. My strong skill set encompasses a range of critical areas, including statistics, data science, programming, and the development of interactive applications using RShiny. I am also proficient in applying artificial intelligence techniques to derive meaningful insights and drive strategic decision-making.
-
-Throughout my career, I have leveraged my expertise to solve complex problems, optimize processes, and uncover actionable insights from data. I excel in creating robust data models, developing predictive analytics, and visualizing data to communicate findings effectively.
+Data Science & AI Manager with 5+ years of experience delivering innovative machine learning solutions and AI-driven analytics. Core competencies include building ML integrated Shiny applications, implementing LLM/Chatbots, and orchestrating large-scale data processing on Azure Databricks. Recognized for "productizing" data science - taking concepts from prototype to revenue-generating commercial products. A hands-on technical leader skilled in performance optimization, process automation, and mentoring teams to drive operational efficiency and high-quality code standards.
 
 - 📫 How to reach me **soumyadipta_das@consultant.com**
 - 👀 I like 📅Data Science, 📊Statistics, 🤖AI and ⚙️ML.
@@ -24,16 +22,16 @@ Throughout my career, I have leveraged my expertise to solve complex problems, o
 
 <h2 align="left">💻 Tech Stack:</h2>
 <p align="left"> 
-<a href="https://cran.r-project.org" target="blank"><img align="center" src="Rlogo.svg" width="40" height="40" /></a>
-<a href="https://azure.microsoft.com/en-us/" target="blank"><img align="center" src="Azure.svg" width="40" height="40" /></a>
-<a href="https://azure.microsoft.com/en-us/products/devops/" target="blank"><img align="center" src="Azure Devops.svg" width="40" height="40" /></a>
-<a href="https://posit.co" target="blank"><img align="center" src="RStudio.svg" width="40" height="40" /></a>
 <a href="https://www.python.org" target="blank"><img align="center" src="Python.svg" width="40" height="40" /></a>
 <a href="https://spark.apache.org/" target="blank"><img align="center" src="Apache Spark.svg" width="40" height="40" /></a>
 <a href="https://www.databricks.com/" target="blank"><img align="center" src="databricks.svg" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="Visual Studio Code (VS Code).svg" width="40" height="40" /></a>
-<a href="https://www.docker.com/" target="blank"><img align="center" src="Docker.svg" width="40" height="40" /></a>
 <a href="https://shiny.posit.co/" target="blank"><img align="center" src="Shiny_hex_logo.svg" width="40" height="40" /></a>
+<a href="https://azure.microsoft.com/en-us/" target="blank"><img align="center" src="Azure.svg" width="40" height="40" /></a>
+<a href="https://azure.microsoft.com/en-us/products/devops/" target="blank"><img align="center" src="Azure Devops.svg" width="40" height="40" /></a>
+<a href="https://cran.r-project.org" target="blank"><img align="center" src="Rlogo.svg" width="40" height="40" /></a>
+<a href="https://posit.co" target="blank"><img align="center" src="RStudio.svg" width="40" height="40" /></a>
+<a href="https://www.docker.com/" target="blank"><img align="center" src="Docker.svg" width="40" height="40" /></a>
 <a href="https://dplyr.tidyverse.org/" target="blank"><img align="center" src="dplyr.svg" width="40" height="40" /></a>
 <a href="https://plotly.com/" target="blank"><img align="center" src="Ploty.svg" width="40" height="40" /></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="Streamlit.svg" width="40" height="40" /></a>
