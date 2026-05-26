@@ -12,7 +12,7 @@ Data Science & AI Manager with 5+ years of experience delivering innovative mach
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://sites.google.com/view/soumyadipta-das" target="blank"><img align="center" src="Google_Sites_2020_Logo.svg" height="30" width="40" /></a>
+<a href="https://soumyadipta2020.github.io/soumyadipta-das/" target="blank"><img align="center" src="Google_Sites_2020_Logo.svg" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/soumyadipta-das/" target="blank"><img align="center" src="LinkedIn_icon.svg" height="30" width="40" /></a>
 <a href="https://orcid.org/0000-0002-2414-8494" target="blank"><img align="center" src="ORCID_iD.svg" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/soumyadiptadas" target="blank"><img align="center" src="Kaggle_Logo.svg" height="30" width="40" /></a>
