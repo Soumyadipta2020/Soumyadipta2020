@@ -35,7 +35,7 @@ Data Science & AI Manager with 5+ years of experience delivering innovative mach
 <a href="https://dplyr.tidyverse.org/" target="blank"><img align="center" src="dplyr.svg" width="40" height="40" /></a>
 <a href="https://plotly.com/" target="blank"><img align="center" src="Ploty.svg" width="40" height="40" /></a>
 <a href="https://streamlit.io/" target="blank"><img align="center" src="Streamlit.svg" width="40" height="40" /></a>
-<a href="https://www.stata.com/" target="blank"><img align="center" src="Stata.svg" width="40" height="40" /></a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="blank"><img align="center" src="flask.svg" width="40" height="40" /></a>
 <a href="https://hadoop.apache.org/" target="blank"><img align="center" src="Apache Hadoop.svg" width="40" height="40" /></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadipta2020&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
