@@ -53,6 +53,3 @@ Data Science & AI Manager with 5+ years of experience delivering innovative mach
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-## 🔝 Top Contributed Repo
-![](https://contrib.rocks/image?username=Soumyadipta2020)
